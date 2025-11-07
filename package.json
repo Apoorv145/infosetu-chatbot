@@ -11,20 +11,21 @@
   },
   "dependencies": {
     "@langchain/community": "^1.0.0",
+    "@langchain/core": "^1.0.0",
     "@langchain/openai": "^1.0.0",
     "langchain": "^1.0.3",
-    "next": "16.0.0",
-    "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "next": "canary",
+    "react": "^19.0.0-rc.0",
+    "react-dom": "^19.0.0-rc.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
     "dotenv": "^16.6.1",
     "eslint": "^9",
-    "eslint-config-next": "16.0.0",
+    "eslint-config-next": "canary",
     "tailwindcss": "^4",
     "ts-node": "^10.9.2",
     "typescript": "^5"
